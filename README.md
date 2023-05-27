@@ -1,4 +1,4 @@
-# Now you see me : File encryption, decryption and transmission suite akin to SCP
+# File encryption, decryption and transmission suite akin to SCP
 
 This project implements a secure file transmission channel similar to SCP. The main components are described below:
 
